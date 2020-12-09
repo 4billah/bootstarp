@@ -1,0 +1,52 @@
+img{
+	width: 47px;
+	border-radius: 30px tomato;
+}
+
+.col-7{
+	
+}
+
+.col-4{
+	
+}
+body{font-family: 'Castoro', serif;
+}
+
+
+
+
+.meanu ul{
+	list-style: none;
+	text-align: center;
+}
+.meanu ul li a img{
+	width: 8%;
+
+	
+}
+
+.meanu-2 ul li a {
+	text-decoration: none;
+	color: white;
+	font-size: 22px;
+
+}
+.meanu-2 ul {
+	list-style: none;
+	text-align: center;
+}
+
+.meanu ul li {
+	padding: 5px 5px;
+	 
+}
+
+.menu3 ul{
+	list-style: none;
+}
+
+.menu3 ul li a{
+	text-decoration-color: red;
+	color: black;
+}
